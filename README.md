@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m a developer with a passion for building efficient and interesting solutions.<br><br>I enjoy working with Python, creating web services, and diving into optimization challenges. My projects often reflect what I’m learning and experimenting with, whether it’s web development, exploring new technologies, or computational methods.<br><br>Feel free to take a look around. Always open to ideas and collaborations! ✉️
+👋 Hi, I’m a developer with a passion for building efficient and interesting solutions.<br><br>I enjoy working with Python, creating web services and diving into optimization challenges. My projects often reflect what I’m learning and experimenting with, whether it’s web development, exploring new technologies or computational methods.<br><br>Feel free to take a look around. Always open to ideas and collaborations! ✉️
 
 
 ## 🌐 Socials:

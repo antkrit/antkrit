@@ -10,9 +10,7 @@ Here you’ll find:
 - diagrams, images, and supporting materials
 - ideas worth revisiting or refining later
 
-Think of it as a **living notebook**, not a polished publication.
-
-All raw articles and supplemental materials are public and can be found in [my repository](https://github.com/antkrit/antkrit/tree/main/posts)
+Think of it as a **living notebook**, not a polished publication. The blog is built as a static website and generated directly from a [Git repository](https://github.com/antkrit/antkrit/tree/main/posts).
 
 ---
 
@@ -25,4 +23,4 @@ Some posts are:
 - opinionated
 - intentionally incomplete
 
-If something feels unfinished, it probably is — and that is part of the process.
+If something feels unfinished, it probably is - and that is part of the process.
